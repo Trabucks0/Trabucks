@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tracey! Passionate in Cybersecurity</h1>
+<h1>Hi, I'm Tracey! Passionate in IT</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
